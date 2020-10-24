@@ -1,0 +1,15 @@
+strict digraph  {
+female_1;
+"group juvenile";
+female_2;
+"presentation fish";
+male_1;
+"group female";
+"group male";
+female_1 -> "group juvenile"  [label=1, penwidth="0.09375"];
+female_2 -> "presentation fish"  [label=32, penwidth="3.0"];
+"presentation fish" -> "group female"  [label=10, penwidth="0.9375"];
+"presentation fish" -> "group male"  [label=4, penwidth="0.375"];
+male_1 -> "group female"  [label=3, penwidth="0.28125"];
+male_1 -> "presentation fish"  [label=12, penwidth="1.125"];
+}

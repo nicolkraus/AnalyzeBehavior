@@ -1,0 +1,9 @@
+strict graph  {
+male_1;
+female_1;
+female_2;
+"presentation fish";
+male_1 -- female_1  [label="63.6", penwidth="3.0"];
+male_1 -- female_2  [label="6.2", penwidth="0.29245283018867924"];
+female_2 -- "presentation fish"  [label="5.8", penwidth="0.27358490566037735"];
+}
