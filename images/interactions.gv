@@ -1,6 +1,34 @@
 strict digraph  {
-Left;
-Right;
-Left -> Right  [label=599, penwidth="1.8280773143438453"];
-Right -> Left  [label=983, penwidth="3.0"];
+"1. f. P.C.";
+"foraging, in mirror range";
+"foraging, out of mirror range";
+"foraging, right at mirror";
+"foraging, right next to mirror, out of mirror range";
+"1. i. P.C.";
+"open mouth, fins errect";
+"open mouth, out of mirror range";
+"1. m. C.J.";
+"spike up";
+"ventral (belly) facing mirror";
+"2. f. P.C.";
+"3. f. P.C.";
+far;
+"foraging, in mirror range, far";
+"vertically, head far up, fins errect, far, right ";
+"1. f. P.C." -> "foraging, in mirror range"  [label=1, penwidth="1.5"];
+"1. f. P.C." -> "foraging, out of mirror range"  [label=1, penwidth="1.5"];
+"1. f. P.C." -> "foraging, right at mirror"  [label=2, penwidth="3.0"];
+"1. f. P.C." -> "foraging, right next to mirror, out of mirror range"  [label=1, penwidth="1.5"];
+"1. i. P.C." -> "open mouth, fins errect"  [label=1, penwidth="1.5"];
+"1. i. P.C." -> "open mouth, out of mirror range"  [label=2, penwidth="3.0"];
+"1. m. C.J." -> "spike up"  [label=1, penwidth="1.5"];
+"1. m. C.J." -> "ventral (belly) facing mirror"  [label=1, penwidth="1.5"];
+"2. f. P.C." -> "foraging, in mirror range"  [label=2, penwidth="3.0"];
+"2. f. P.C." -> "foraging, out of mirror range"  [label=2, penwidth="3.0"];
+"2. f. P.C." -> "foraging, right at mirror"  [label=2, penwidth="3.0"];
+"3. f. P.C." -> far  [label=1, penwidth="1.5"];
+"3. f. P.C." -> "foraging, in mirror range, far"  [label=1, penwidth="1.5"];
+"3. f. P.C." -> "foraging, out of mirror range"  [label=2, penwidth="3.0"];
+"3. f. P.C." -> "foraging, right at mirror"  [label=1, penwidth="1.5"];
+"3. f. P.C." -> "vertically, head far up, fins errect, far, right "  [label=1, penwidth="1.5"];
 }
