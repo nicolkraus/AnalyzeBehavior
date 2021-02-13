@@ -1,0 +1,109 @@
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Modifier 1,Comment,Status
+0.600,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+2.101,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,operculum spread,Restrained aggression,presentation fish,,POINT
+8.601,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+11.101,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+11.601,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,S-bend,Restrained aggression,presentation fish,,POINT
+11.601,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,operculum spread,Restrained aggression,presentation fish,,POINT
+13.601,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+13.852,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+14.852,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+17.043,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,tail beat,Restrained aggression,presentation fish,,POINT
+19.100,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+21.351,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+21.793,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,tail beat,Restrained aggression,presentation fish,,POINT
+24.600,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+30.851,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+32.293,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+32.793,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+38.601,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group female,,POINT
+40.101,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shell,Presence,,,START
+40.601,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+42.351,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shell,Presence,,,STOP
+44.350,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+46.793,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+46.793,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+52.792,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,S-bend,Restrained aggression,presentation fish,,POINT
+52.792,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,operculum spread,Restrained aggression,presentation fish,,POINT
+55.543,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+55.543,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+58.922,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+58.922,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+66.101,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+68.104,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+69.047,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+70.043,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+71.792,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+81.793,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+84.351,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+117.293,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_1,shell,Presence,,,START
+211.101,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+223.926,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shell,Presence,,,START
+227.426,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shell,Presence,,,STOP
+235.292,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_1,shell,Presence,,,STOP
+260.792,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+272.676,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,S-bend,Restrained aggression,presentation fish,,POINT
+275.041,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+293.800,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_1,shell escape,Escape,,,POINT
+293.880,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_1,shell,Presence,,,START
+294.360,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shell escape,Escape,,,POINT
+294.400,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shell,Presence,,,START
+295.293,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,,presence of Cun,Presence,,,START
+300.023,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell escape,Escape,,,POINT
+300.042,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+311.792,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,,presence of Cun,Presence,,,STOP
+318.793,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,,presence of Cun,Presence,,,START
+334.042,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,,presence of Cun,Presence,,,STOP
+361.797,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shell,Presence,,,STOP
+412.670,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shooting out,Restrained aggression,presentation fish,,POINT
+413.044,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+414.670,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,operculum spread,Restrained aggression,presentation fish,,POINT
+422.042,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group male,,POINT
+429.042,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_1,shell,Presence,,,STOP
+429.170,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+429.170,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,shooting out,Restrained aggression,presentation fish,,POINT
+429.419,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+433.170,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,S-bend,Restrained aggression,group female,,POINT
+433.170,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,operculum spread,Restrained aggression,presentation fish,,POINT
+433.541,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group female,,POINT
+433.919,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shooting out,Restrained aggression,group female,,POINT
+438.542,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group male,,POINT
+443.042,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group male,,POINT
+453.791,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+454.792,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+455.420,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,S-bend,Restrained aggression,presentation fish,,POINT
+459.669,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,shooting out,Restrained aggression,presentation fish,,POINT
+459.670,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+459.670,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+462.045,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_1,shooting out,Restrained aggression,group juvenile,,POINT
+465.920,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+466.570,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,tail beat,Restrained aggression,presentation fish,,POINT
+466.920,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,tail beat,Restrained aggression,group female,,POINT
+467.420,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group female,,POINT
+467.670,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,attempted attack,Overt aggression,,,POINT
+467.670,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,tail beat,Restrained aggression,group female,,POINT
+468.975,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+502.419,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell escape,Escape,,,POINT
+502.420,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+512.922,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_1,shell,Presence,,,START
+548.171,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP
+554.920,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group male,,POINT
+558.920,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group female,,POINT
+569.170,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+569.670,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,shooting out,Restrained aggression,presentation fish,,POINT
+569.920,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+569.920,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group female,,POINT
+573.170,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,tail beat,Restrained aggression,group female,,POINT
+573.920,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,shooting out,Restrained aggression,presentation fish,,POINT
+574.170,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,operculum spread,Restrained aggression,presentation fish,,POINT
+577.669,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+577.669,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+578.170,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group female,,POINT
+580.169,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,male_1,biting,Overt aggression,group female,,POINT
+582.419,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,S-bend,Restrained aggression,presentation fish,,POINT
+582.419,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_2,operculum spread,Restrained aggression,presentation fish,,POINT
+583.420,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,S-bend,Restrained aggression,group female,,POINT
+590.422,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,female_1,shell,Presence,,,STOP
+595.419,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell escape,Escape,,,POINT
+595.420,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,START
+600.000,D:/tanganyika/data_standardized/2018-10-30_34_-4_F_standardized.MP4,600.650,25.0,presentation fish,shell,Presence,,,STOP

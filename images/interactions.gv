@@ -1,10 +1,6 @@
 strict digraph  {
-"1. i. P.C.";
-"foraging, in mirror range";
-"open mouth";
-"2. f. P.C.";
-"foraging, out of mirror range";
-"1. i. P.C." -> "foraging, in mirror range"  [label=2, penwidth="1.5"];
-"1. i. P.C." -> "open mouth"  [label=4, penwidth="3.0"];
-"2. f. P.C." -> "foraging, out of mirror range"  [label=1, penwidth="0.75"];
+Left;
+Right;
+Left -> Right  [label=279, penwidth="1.6065259117082533"];
+Right -> Left  [label=521, penwidth="3.0"];
 }

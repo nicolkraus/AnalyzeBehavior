@@ -1,0 +1,1 @@
+*args in python für unbekannte Anzahl Parameter, nutzvoll für Spaltennamen?
