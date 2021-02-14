@@ -1,3 +1,0 @@
-zusätzlich
-pip install graphviz 
-zu anderen requirements
