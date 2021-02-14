@@ -1,6 +1,6 @@
 strict digraph  {
 Left;
 Right;
-Left -> Right  [label=567, penwidth="2.6372093023255814"];
-Right -> Left  [label=645, penwidth="3.0"];
+Left -> Right  [label=599, penwidth="1.8280773143438453"];
+Right -> Left  [label=983, penwidth="3.0"];
 }
