@@ -1,6 +1,24 @@
 strict digraph  {
+<<<<<<< HEAD
 Left;
 Right;
 Left -> Right  [label=567, penwidth="2.6372093023255814"];
 Right -> Left  [label=645, penwidth="3.0"];
+=======
+1;
+None;
+tetra;
+tetracanthus;
+xenotilapia;
+2;
+"L. elongatus";
+3;
+1 -> None  [label=6, penwidth="0.2727272727272727"];
+1 -> tetra  [label=66, penwidth="3.0"];
+1 -> tetracanthus  [label=4, penwidth="0.18181818181818182"];
+1 -> xenotilapia  [label=2, penwidth="0.09090909090909091"];
+2 -> "L. elongatus"  [label=2, penwidth="0.09090909090909091"];
+2 -> None  [label=4, penwidth="0.18181818181818182"];
+3 -> None  [label=2, penwidth="0.09090909090909091"];
+>>>>>>> 6e62a43db0e86f24315a64eb666cef7b32dc4a51
 }
