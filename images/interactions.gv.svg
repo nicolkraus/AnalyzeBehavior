@@ -5,10 +5,10 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="72pt" height="131pt"
- viewBox="0.00 0.00 71.85 131.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 71.69 131.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 127)">
 <title>%3</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-127 67.8472,-127 67.8472,4 -4,4"/>
+<polygon fill="white" stroke="none" points="-4,4 -4,-127 67.6943,-127 67.6943,4 -4,4"/>
 <!-- Left -->
 <g id="node1" class="node"><title>Left</title>
 <ellipse fill="none" stroke="black" cx="31.8472" cy="-105" rx="27" ry="18"/>
@@ -21,15 +21,15 @@
 </g>
 <!-- Left&#45;&gt;Right -->
 <g id="edge1" class="edge"><title>Left&#45;&gt;Right</title>
-<path fill="none" stroke="black" stroke-width="1.41571" d="M19.7425,-88.878C15.7787,-83.0195 11.8744,-76.0344 9.84717,-69 7.39335,-60.4852 9.66156,-51.5252 13.5317,-43.5792"/>
-<polygon fill="black" stroke="black" stroke-width="1.41571" points="16.6317,-45.2105 18.6238,-34.8046 10.5773,-41.6969 16.6317,-45.2105"/>
-<text text-anchor="middle" x="21.3472" y="-57.8" font-family="Times New Roman,serif" font-size="14.00">865</text>
+<path fill="none" stroke="black" stroke-width="3" d="M19.7425,-88.878C15.7787,-83.0195 11.8744,-76.0344 9.84717,-69 7.39335,-60.4852 9.66156,-51.5252 13.5317,-43.5792"/>
+<polygon fill="black" stroke="black" stroke-width="3" points="16.6317,-45.2105 18.6238,-34.8046 10.5773,-41.6969 16.6317,-45.2105"/>
+<text text-anchor="middle" x="21.3472" y="-57.8" font-family="Times New Roman,serif" font-size="14.00">147</text>
 </g>
 <!-- Right&#45;&gt;Left -->
 <g id="edge2" class="edge"><title>Right&#45;&gt;Left</title>
-<path fill="none" stroke="black" stroke-width="3" d="M32.4331,-36.0878C32.6024,-41.7842 32.7638,-48.1649 32.8472,-54 32.9521,-61.3494 32.8783,-69.3058 32.7325,-76.664"/>
-<polygon fill="black" stroke="black" stroke-width="3" points="29.2283,-76.7928 32.4798,-86.8764 36.2262,-76.9661 29.2283,-76.7928"/>
-<text text-anchor="middle" x="48.3472" y="-57.8" font-family="Times New Roman,serif" font-size="14.00">1833</text>
+<path fill="none" stroke="black" stroke-width="2.7551" d="M32.4331,-36.0878C32.6024,-41.7842 32.7638,-48.1649 32.8472,-54 32.9521,-61.3494 32.8783,-69.3058 32.7325,-76.664"/>
+<polygon fill="black" stroke="black" stroke-width="2.7551" points="29.2283,-76.7928 32.4798,-86.8764 36.2262,-76.9661 29.2283,-76.7928"/>
+<text text-anchor="middle" x="44.3472" y="-57.8" font-family="Times New Roman,serif" font-size="14.00">135</text>
 </g>
 </g>
 </svg>
