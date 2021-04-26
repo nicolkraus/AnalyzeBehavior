@@ -1,4 +1,5 @@
 async-generator==1.10
+scipy
 attrs==19.3.0
 backcall==0.1.0
 bleach==3.3.0
