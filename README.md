@@ -8,8 +8,7 @@ The website to analyze animal behaviour data is available at https://analyze-beh
 
 ### Network Types
 1. Data inspection
-![data_plot](https://user-images.githubusercontent.com/49905943/139040601-7214c264-c7d9-4d4a-936b-a2dfc585bfe2.png)
-
+<img src ="https://user-images.githubusercontent.com/49905943/139040601-7214c264-c7d9-4d4a-936b-a2dfc585bfe2.png" width="100" height="100">
 2. Interaction Network
 ![interaction](https://user-images.githubusercontent.com/49905943/139040706-2e1c8245-3d79-4501-8436-2b010548ece9.png)
 
