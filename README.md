@@ -20,9 +20,10 @@ The website to analyze animal behaviour data is available at https://analyze-beh
 5. Distance Network
 <img src ="https://user-images.githubusercontent.com/49905943/139042148-54ad615e-bfb9-45ee-9faf-37ca526448d5.png" width="500" height="500">
 
-If you have any questions, feel free to contact me at nicolaikraus@protonmail.com
 
 ### Comparison of Transition probability network
-The website offers functionality to download and compare different transition probability networks with different graph measures and a visualization
+The website offers functionality to download and compare different transition probability networks with different graph measures 
 <img src ="https://user-images.githubusercontent.com/49905943/139043615-c53c224f-0986-45bf-a51b-8ee46144249e.png" width="500" height="500">
 
+
+If you have any questions, feel free to contact me at nicolaikraus@protonmail.com
