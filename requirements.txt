@@ -22,7 +22,7 @@ jsonschema==3.2.0
 jupyter-client==6.1.7
 jupyter-console==6.1.0
 jupyter-core==4.6.3
-jupyter-server==1.6.2
+jupyter-server
 jupyterlab-pygments==0.1.0
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
@@ -59,7 +59,7 @@ six==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
-tornado==6.0.4
+tornado
 traitlets==4.3.3
 voila==0.2.3
 voila-gridstack==0.0.11
