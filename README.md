@@ -4,7 +4,7 @@
 This project is a collaboration with Etienne Lein and Dr. Alex Jordan from the Lab for the Evolution of Social and Adaptive Behaviour and the Max-Planck Institute for Ornithology. The provided behaviour data of cichlids is derived from BORIS, an event-logging software.
 
 ### Website
-The website to analyze animal behaviour data is available at https://analyze-behavior.herokuapp.com/. Different networks may be generated and parameterized by the user (behavioural biologist)
+Check out https://tiba.inf.uni-konstanz.de for the current website.
 
 ### Network Types
 1. Data inspection
